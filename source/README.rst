@@ -94,7 +94,7 @@ Benefits of using git
 Easier to propose changes, for example by writing an MCP in restructured
 text or creating a github pull request for fixing typo's.
 
-Possible to work on the specification during meetings even when the
-Wi-Fi is failing.
+Possible to work on the specification during meetings even when Hans
+is failing.
 
 .. |MLS| replace:: :abbr:`MLS (Modelica Language Specification)`
